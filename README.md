@@ -1,6 +1,8 @@
 # Image Processing and Computer Vision: Methods and Implementation
 To be Published by Wiley
 
+![](cover.png)
+
 ## Book Chapters
 
 1.	Classical Methods in Image Processing
